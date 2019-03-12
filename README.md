@@ -10,4 +10,5 @@ requests
 datetime
 matplotlib
 
-To view results.pdf, download the file.
+To view results.pdf, follow this link:
+https://github.com/emmamack/Text-Mining/blob/master/results.pdf
